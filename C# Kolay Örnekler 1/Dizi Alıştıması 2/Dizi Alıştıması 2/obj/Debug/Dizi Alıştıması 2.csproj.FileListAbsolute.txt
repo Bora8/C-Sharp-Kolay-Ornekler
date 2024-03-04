@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Dizi Alıştıması 2\Dizi Alıştıması 2\bin\Debug\Dizi Alıştıması 2.exe.config
+C:\Users\KoelSYS\source\repos\Dizi Alıştıması 2\Dizi Alıştıması 2\bin\Debug\Dizi Alıştıması 2.exe
+C:\Users\KoelSYS\source\repos\Dizi Alıştıması 2\Dizi Alıştıması 2\bin\Debug\Dizi Alıştıması 2.pdb
+C:\Users\KoelSYS\source\repos\Dizi Alıştıması 2\Dizi Alıştıması 2\obj\Debug\Dizi Alıştıması 2.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Dizi Alıştıması 2\Dizi Alıştıması 2\obj\Debug\Dizi Alıştıması 2.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Dizi Alıştıması 2\Dizi Alıştıması 2\obj\Debug\Dizi Alıştıması 2.exe
+C:\Users\KoelSYS\source\repos\Dizi Alıştıması 2\Dizi Alıştıması 2\obj\Debug\Dizi Alıştıması 2.pdb

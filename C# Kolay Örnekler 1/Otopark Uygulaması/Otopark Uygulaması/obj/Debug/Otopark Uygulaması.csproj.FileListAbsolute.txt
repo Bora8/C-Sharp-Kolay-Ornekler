@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Otopark Uygulaması\Otopark Uygulaması\bin\Debug\Otopark Uygulaması.exe.config
+C:\Users\KoelSYS\source\repos\Otopark Uygulaması\Otopark Uygulaması\bin\Debug\Otopark Uygulaması.exe
+C:\Users\KoelSYS\source\repos\Otopark Uygulaması\Otopark Uygulaması\bin\Debug\Otopark Uygulaması.pdb
+C:\Users\KoelSYS\source\repos\Otopark Uygulaması\Otopark Uygulaması\obj\Debug\Otopark Uygulaması.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Otopark Uygulaması\Otopark Uygulaması\obj\Debug\Otopark Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Otopark Uygulaması\Otopark Uygulaması\obj\Debug\Otopark Uygulaması.exe
+C:\Users\KoelSYS\source\repos\Otopark Uygulaması\Otopark Uygulaması\obj\Debug\Otopark Uygulaması.pdb

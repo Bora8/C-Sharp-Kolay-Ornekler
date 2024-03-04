@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\A'dan Z'ye\A'dan Z'ye\obj\Debug\A'dan Z'ye.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\A'dan Z'ye\A'dan Z'ye\obj\Debug\A'dan Z'ye.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\A'dan Z'ye\A'dan Z'ye\bin\Debug\A'dan Z'ye.exe.config
+C:\Users\KoelSYS\source\repos\A'dan Z'ye\A'dan Z'ye\bin\Debug\A'dan Z'ye.exe
+C:\Users\KoelSYS\source\repos\A'dan Z'ye\A'dan Z'ye\bin\Debug\A'dan Z'ye.pdb
+C:\Users\KoelSYS\source\repos\A'dan Z'ye\A'dan Z'ye\obj\Debug\A'dan Z'ye.exe
+C:\Users\KoelSYS\source\repos\A'dan Z'ye\A'dan Z'ye\obj\Debug\A'dan Z'ye.pdb

@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Girilen Cümledeki Kelime Sayısı\Girilen Cümledeki Kelime Sayısı\bin\Debug\Girilen Cümledeki Kelime Sayısı.exe.config
+C:\Users\KoelSYS\source\repos\Girilen Cümledeki Kelime Sayısı\Girilen Cümledeki Kelime Sayısı\bin\Debug\Girilen Cümledeki Kelime Sayısı.exe
+C:\Users\KoelSYS\source\repos\Girilen Cümledeki Kelime Sayısı\Girilen Cümledeki Kelime Sayısı\bin\Debug\Girilen Cümledeki Kelime Sayısı.pdb
+C:\Users\KoelSYS\source\repos\Girilen Cümledeki Kelime Sayısı\Girilen Cümledeki Kelime Sayısı\obj\Debug\Girilen Cümledeki Kelime Sayısı.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Girilen Cümledeki Kelime Sayısı\Girilen Cümledeki Kelime Sayısı\obj\Debug\Girilen Cümledeki Kelime Sayısı.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Girilen Cümledeki Kelime Sayısı\Girilen Cümledeki Kelime Sayısı\obj\Debug\Girilen Cümledeki Kelime Sayısı.exe
+C:\Users\KoelSYS\source\repos\Girilen Cümledeki Kelime Sayısı\Girilen Cümledeki Kelime Sayısı\obj\Debug\Girilen Cümledeki Kelime Sayısı.pdb

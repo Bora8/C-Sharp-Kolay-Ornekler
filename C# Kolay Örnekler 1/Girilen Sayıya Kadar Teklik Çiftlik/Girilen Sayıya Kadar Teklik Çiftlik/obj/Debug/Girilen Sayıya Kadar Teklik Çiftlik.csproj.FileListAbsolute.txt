@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Girilen Sayıya Kadar Teklik Çiftlik\Girilen Sayıya Kadar Teklik Çiftlik\bin\Debug\Girilen Sayıya Kadar Teklik Çiftlik.exe.config
+C:\Users\KoelSYS\source\repos\Girilen Sayıya Kadar Teklik Çiftlik\Girilen Sayıya Kadar Teklik Çiftlik\bin\Debug\Girilen Sayıya Kadar Teklik Çiftlik.exe
+C:\Users\KoelSYS\source\repos\Girilen Sayıya Kadar Teklik Çiftlik\Girilen Sayıya Kadar Teklik Çiftlik\bin\Debug\Girilen Sayıya Kadar Teklik Çiftlik.pdb
+C:\Users\KoelSYS\source\repos\Girilen Sayıya Kadar Teklik Çiftlik\Girilen Sayıya Kadar Teklik Çiftlik\obj\Debug\Girilen Sayıya Kadar Teklik Çiftlik.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Girilen Sayıya Kadar Teklik Çiftlik\Girilen Sayıya Kadar Teklik Çiftlik\obj\Debug\Girilen Sayıya Kadar Teklik Çiftlik.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Girilen Sayıya Kadar Teklik Çiftlik\Girilen Sayıya Kadar Teklik Çiftlik\obj\Debug\Girilen Sayıya Kadar Teklik Çiftlik.exe
+C:\Users\KoelSYS\source\repos\Girilen Sayıya Kadar Teklik Çiftlik\Girilen Sayıya Kadar Teklik Çiftlik\obj\Debug\Girilen Sayıya Kadar Teklik Çiftlik.pdb

@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Dizi Çalışması 3\Dizi Çalışması 3\bin\Debug\Dizi Çalışması 3.exe.config
+C:\Users\KoelSYS\source\repos\Dizi Çalışması 3\Dizi Çalışması 3\bin\Debug\Dizi Çalışması 3.exe
+C:\Users\KoelSYS\source\repos\Dizi Çalışması 3\Dizi Çalışması 3\bin\Debug\Dizi Çalışması 3.pdb
+C:\Users\KoelSYS\source\repos\Dizi Çalışması 3\Dizi Çalışması 3\obj\Debug\Dizi Çalışması 3.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Dizi Çalışması 3\Dizi Çalışması 3\obj\Debug\Dizi Çalışması 3.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Dizi Çalışması 3\Dizi Çalışması 3\obj\Debug\Dizi Çalışması 3.exe
+C:\Users\KoelSYS\source\repos\Dizi Çalışması 3\Dizi Çalışması 3\obj\Debug\Dizi Çalışması 3.pdb

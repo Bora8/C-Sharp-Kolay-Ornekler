@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Dizi elemanlarını yüzde x arttırma\Dizi elemanlarını yüzde x arttırma\bin\Debug\Dizi elemanlarını yüzde x arttırma.exe.config
+C:\Users\KoelSYS\source\repos\Dizi elemanlarını yüzde x arttırma\Dizi elemanlarını yüzde x arttırma\bin\Debug\Dizi elemanlarını yüzde x arttırma.exe
+C:\Users\KoelSYS\source\repos\Dizi elemanlarını yüzde x arttırma\Dizi elemanlarını yüzde x arttırma\bin\Debug\Dizi elemanlarını yüzde x arttırma.pdb
+C:\Users\KoelSYS\source\repos\Dizi elemanlarını yüzde x arttırma\Dizi elemanlarını yüzde x arttırma\obj\Debug\Dizi elemanlarını yüzde x arttırma.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Dizi elemanlarını yüzde x arttırma\Dizi elemanlarını yüzde x arttırma\obj\Debug\Dizi elemanlarını yüzde x arttırma.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Dizi elemanlarını yüzde x arttırma\Dizi elemanlarını yüzde x arttırma\obj\Debug\Dizi elemanlarını yüzde x arttırma.exe
+C:\Users\KoelSYS\source\repos\Dizi elemanlarını yüzde x arttırma\Dizi elemanlarını yüzde x arttırma\obj\Debug\Dizi elemanlarını yüzde x arttırma.pdb

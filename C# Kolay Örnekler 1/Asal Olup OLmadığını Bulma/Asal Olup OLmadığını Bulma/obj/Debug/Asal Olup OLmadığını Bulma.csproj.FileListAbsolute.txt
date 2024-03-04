@@ -1,0 +1,14 @@
+C:\Users\KoelSYS\source\repos\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\bin\Debug\Asal Olup OLmadığını Bulma.exe.config
+C:\Users\KoelSYS\source\repos\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\bin\Debug\Asal Olup OLmadığını Bulma.exe
+C:\Users\KoelSYS\source\repos\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\bin\Debug\Asal Olup OLmadığını Bulma.pdb
+C:\Users\KoelSYS\source\repos\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\obj\Debug\Asal Olup OLmadığını Bulma.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\obj\Debug\Asal Olup OLmadığını Bulma.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\obj\Debug\Asal Olup OLmadığını Bulma.exe
+C:\Users\KoelSYS\source\repos\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\obj\Debug\Asal Olup OLmadığını Bulma.pdb
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\bin\Debug\Asal Olup OLmadığını Bulma.exe.config
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\bin\Debug\Asal Olup OLmadığını Bulma.exe
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\bin\Debug\Asal Olup OLmadığını Bulma.pdb
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\obj\Debug\Asal Olup OLmadığını Bulma.csproj.AssemblyReference.cache
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\obj\Debug\Asal Olup OLmadığını Bulma.csproj.CoreCompileInputs.cache
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\obj\Debug\Asal Olup OLmadığını Bulma.exe
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Asal Olup OLmadığını Bulma\Asal Olup OLmadığını Bulma\obj\Debug\Asal Olup OLmadığını Bulma.pdb

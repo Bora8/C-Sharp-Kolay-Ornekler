@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Rasgele Dizi İşlemleri\Rasgele Dizi İşlemleri\bin\Debug\Rasgele Dizi İşlemleri.exe.config
+C:\Users\KoelSYS\source\repos\Rasgele Dizi İşlemleri\Rasgele Dizi İşlemleri\bin\Debug\Rasgele Dizi İşlemleri.exe
+C:\Users\KoelSYS\source\repos\Rasgele Dizi İşlemleri\Rasgele Dizi İşlemleri\bin\Debug\Rasgele Dizi İşlemleri.pdb
+C:\Users\KoelSYS\source\repos\Rasgele Dizi İşlemleri\Rasgele Dizi İşlemleri\obj\Debug\Rasgele Dizi İşlemleri.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Rasgele Dizi İşlemleri\Rasgele Dizi İşlemleri\obj\Debug\Rasgele Dizi İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Rasgele Dizi İşlemleri\Rasgele Dizi İşlemleri\obj\Debug\Rasgele Dizi İşlemleri.exe
+C:\Users\KoelSYS\source\repos\Rasgele Dizi İşlemleri\Rasgele Dizi İşlemleri\obj\Debug\Rasgele Dizi İşlemleri.pdb

@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Ortalama ve Harf Notu Bulan Program\Ortalama ve Harf Notu Bulan Program\bin\Debug\Ortalama ve Harf Notu Bulan Program.exe.config
+C:\Users\KoelSYS\source\repos\Ortalama ve Harf Notu Bulan Program\Ortalama ve Harf Notu Bulan Program\bin\Debug\Ortalama ve Harf Notu Bulan Program.exe
+C:\Users\KoelSYS\source\repos\Ortalama ve Harf Notu Bulan Program\Ortalama ve Harf Notu Bulan Program\bin\Debug\Ortalama ve Harf Notu Bulan Program.pdb
+C:\Users\KoelSYS\source\repos\Ortalama ve Harf Notu Bulan Program\Ortalama ve Harf Notu Bulan Program\obj\Debug\Ortalama ve Harf Notu Bulan Program.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Ortalama ve Harf Notu Bulan Program\Ortalama ve Harf Notu Bulan Program\obj\Debug\Ortalama ve Harf Notu Bulan Program.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Ortalama ve Harf Notu Bulan Program\Ortalama ve Harf Notu Bulan Program\obj\Debug\Ortalama ve Harf Notu Bulan Program.exe
+C:\Users\KoelSYS\source\repos\Ortalama ve Harf Notu Bulan Program\Ortalama ve Harf Notu Bulan Program\obj\Debug\Ortalama ve Harf Notu Bulan Program.pdb

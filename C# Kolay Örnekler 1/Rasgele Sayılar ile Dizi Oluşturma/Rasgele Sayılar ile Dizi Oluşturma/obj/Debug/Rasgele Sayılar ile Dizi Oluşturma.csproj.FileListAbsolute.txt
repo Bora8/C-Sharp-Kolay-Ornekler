@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Rasgele Sayılar ile Dizi Oluşturma\Rasgele Sayılar ile Dizi Oluşturma\bin\Debug\Rasgele Sayılar ile Dizi Oluşturma.exe.config
+C:\Users\KoelSYS\source\repos\Rasgele Sayılar ile Dizi Oluşturma\Rasgele Sayılar ile Dizi Oluşturma\bin\Debug\Rasgele Sayılar ile Dizi Oluşturma.exe
+C:\Users\KoelSYS\source\repos\Rasgele Sayılar ile Dizi Oluşturma\Rasgele Sayılar ile Dizi Oluşturma\bin\Debug\Rasgele Sayılar ile Dizi Oluşturma.pdb
+C:\Users\KoelSYS\source\repos\Rasgele Sayılar ile Dizi Oluşturma\Rasgele Sayılar ile Dizi Oluşturma\obj\Debug\Rasgele Sayılar ile Dizi Oluşturma.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Rasgele Sayılar ile Dizi Oluşturma\Rasgele Sayılar ile Dizi Oluşturma\obj\Debug\Rasgele Sayılar ile Dizi Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Rasgele Sayılar ile Dizi Oluşturma\Rasgele Sayılar ile Dizi Oluşturma\obj\Debug\Rasgele Sayılar ile Dizi Oluşturma.exe
+C:\Users\KoelSYS\source\repos\Rasgele Sayılar ile Dizi Oluşturma\Rasgele Sayılar ile Dizi Oluşturma\obj\Debug\Rasgele Sayılar ile Dizi Oluşturma.pdb

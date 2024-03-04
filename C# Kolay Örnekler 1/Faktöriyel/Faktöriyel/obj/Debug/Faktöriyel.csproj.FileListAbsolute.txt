@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Faktöriyel\Faktöriyel\bin\Debug\Faktöriyel.exe.config
+C:\Users\KoelSYS\source\repos\Faktöriyel\Faktöriyel\bin\Debug\Faktöriyel.exe
+C:\Users\KoelSYS\source\repos\Faktöriyel\Faktöriyel\bin\Debug\Faktöriyel.pdb
+C:\Users\KoelSYS\source\repos\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.exe
+C:\Users\KoelSYS\source\repos\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.pdb

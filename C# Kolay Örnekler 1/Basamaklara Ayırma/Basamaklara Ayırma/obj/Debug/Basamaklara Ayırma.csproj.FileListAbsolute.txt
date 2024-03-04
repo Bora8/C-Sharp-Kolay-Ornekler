@@ -1,0 +1,14 @@
+C:\Users\KoelSYS\source\repos\Basamaklara Ayırma\Basamaklara Ayırma\bin\Debug\Basamaklara Ayırma.exe.config
+C:\Users\KoelSYS\source\repos\Basamaklara Ayırma\Basamaklara Ayırma\bin\Debug\Basamaklara Ayırma.exe
+C:\Users\KoelSYS\source\repos\Basamaklara Ayırma\Basamaklara Ayırma\bin\Debug\Basamaklara Ayırma.pdb
+C:\Users\KoelSYS\source\repos\Basamaklara Ayırma\Basamaklara Ayırma\obj\Debug\Basamaklara Ayırma.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Basamaklara Ayırma\Basamaklara Ayırma\obj\Debug\Basamaklara Ayırma.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Basamaklara Ayırma\Basamaklara Ayırma\obj\Debug\Basamaklara Ayırma.exe
+C:\Users\KoelSYS\source\repos\Basamaklara Ayırma\Basamaklara Ayırma\obj\Debug\Basamaklara Ayırma.pdb
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basamaklara Ayırma\Basamaklara Ayırma\bin\Debug\Basamaklara Ayırma.exe.config
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basamaklara Ayırma\Basamaklara Ayırma\bin\Debug\Basamaklara Ayırma.exe
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basamaklara Ayırma\Basamaklara Ayırma\bin\Debug\Basamaklara Ayırma.pdb
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basamaklara Ayırma\Basamaklara Ayırma\obj\Debug\Basamaklara Ayırma.csproj.AssemblyReference.cache
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basamaklara Ayırma\Basamaklara Ayırma\obj\Debug\Basamaklara Ayırma.csproj.CoreCompileInputs.cache
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basamaklara Ayırma\Basamaklara Ayırma\obj\Debug\Basamaklara Ayırma.exe
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basamaklara Ayırma\Basamaklara Ayırma\obj\Debug\Basamaklara Ayırma.pdb

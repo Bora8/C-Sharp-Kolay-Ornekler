@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\HayvanlarAlemi.exe.config
+C:\Users\KoelSYS\source\repos\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\HayvanlarAlemi.exe
+C:\Users\KoelSYS\source\repos\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\HayvanlarAlemi.pdb
+C:\Users\KoelSYS\source\repos\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\HayvanlarAlemi.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\HayvanlarAlemi.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\HayvanlarAlemi.exe
+C:\Users\KoelSYS\source\repos\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\HayvanlarAlemi.pdb

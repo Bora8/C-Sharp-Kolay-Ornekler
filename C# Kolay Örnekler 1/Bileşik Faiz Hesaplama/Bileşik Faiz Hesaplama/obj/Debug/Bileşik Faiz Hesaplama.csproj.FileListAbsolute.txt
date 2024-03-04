@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Bileşik Faiz Hesaplama\Bileşik Faiz Hesaplama\bin\Debug\Bileşik Faiz Hesaplama.exe.config
+C:\Users\KoelSYS\source\repos\Bileşik Faiz Hesaplama\Bileşik Faiz Hesaplama\bin\Debug\Bileşik Faiz Hesaplama.exe
+C:\Users\KoelSYS\source\repos\Bileşik Faiz Hesaplama\Bileşik Faiz Hesaplama\bin\Debug\Bileşik Faiz Hesaplama.pdb
+C:\Users\KoelSYS\source\repos\Bileşik Faiz Hesaplama\Bileşik Faiz Hesaplama\obj\Debug\Bileşik Faiz Hesaplama.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Bileşik Faiz Hesaplama\Bileşik Faiz Hesaplama\obj\Debug\Bileşik Faiz Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Bileşik Faiz Hesaplama\Bileşik Faiz Hesaplama\obj\Debug\Bileşik Faiz Hesaplama.exe
+C:\Users\KoelSYS\source\repos\Bileşik Faiz Hesaplama\Bileşik Faiz Hesaplama\obj\Debug\Bileşik Faiz Hesaplama.pdb

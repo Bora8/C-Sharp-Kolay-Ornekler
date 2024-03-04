@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\OkulSistemi\OkulSistemi\bin\Debug\OkulSistemi.exe.config
+C:\Users\KoelSYS\source\repos\OkulSistemi\OkulSistemi\bin\Debug\OkulSistemi.exe
+C:\Users\KoelSYS\source\repos\OkulSistemi\OkulSistemi\bin\Debug\OkulSistemi.pdb
+C:\Users\KoelSYS\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.exe
+C:\Users\KoelSYS\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.pdb

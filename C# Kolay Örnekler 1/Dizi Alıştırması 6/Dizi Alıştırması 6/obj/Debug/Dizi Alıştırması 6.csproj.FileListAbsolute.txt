@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Dizi Alıştırması 6\Dizi Alıştırması 6\bin\Debug\Dizi Alıştırması 6.exe.config
+C:\Users\KoelSYS\source\repos\Dizi Alıştırması 6\Dizi Alıştırması 6\bin\Debug\Dizi Alıştırması 6.exe
+C:\Users\KoelSYS\source\repos\Dizi Alıştırması 6\Dizi Alıştırması 6\bin\Debug\Dizi Alıştırması 6.pdb
+C:\Users\KoelSYS\source\repos\Dizi Alıştırması 6\Dizi Alıştırması 6\obj\Debug\Dizi Alıştırması 6.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Dizi Alıştırması 6\Dizi Alıştırması 6\obj\Debug\Dizi Alıştırması 6.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Dizi Alıştırması 6\Dizi Alıştırması 6\obj\Debug\Dizi Alıştırması 6.exe
+C:\Users\KoelSYS\source\repos\Dizi Alıştırması 6\Dizi Alıştırması 6\obj\Debug\Dizi Alıştırması 6.pdb

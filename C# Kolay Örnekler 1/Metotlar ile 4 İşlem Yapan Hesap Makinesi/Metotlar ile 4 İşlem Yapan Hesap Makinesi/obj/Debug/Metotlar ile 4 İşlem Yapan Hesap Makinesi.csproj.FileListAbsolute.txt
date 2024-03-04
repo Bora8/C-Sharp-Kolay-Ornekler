@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Metotlar ile 4 İşlem Yapan Hesap Makinesi\Metotlar ile 4 İşlem Yapan Hesap Makinesi\bin\Debug\Metotlar ile 4 İşlem Yapan Hesap Makinesi.exe.config
+C:\Users\KoelSYS\source\repos\Metotlar ile 4 İşlem Yapan Hesap Makinesi\Metotlar ile 4 İşlem Yapan Hesap Makinesi\bin\Debug\Metotlar ile 4 İşlem Yapan Hesap Makinesi.exe
+C:\Users\KoelSYS\source\repos\Metotlar ile 4 İşlem Yapan Hesap Makinesi\Metotlar ile 4 İşlem Yapan Hesap Makinesi\bin\Debug\Metotlar ile 4 İşlem Yapan Hesap Makinesi.pdb
+C:\Users\KoelSYS\source\repos\Metotlar ile 4 İşlem Yapan Hesap Makinesi\Metotlar ile 4 İşlem Yapan Hesap Makinesi\obj\Debug\Metotlar ile 4 İşlem Yapan Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Metotlar ile 4 İşlem Yapan Hesap Makinesi\Metotlar ile 4 İşlem Yapan Hesap Makinesi\obj\Debug\Metotlar ile 4 İşlem Yapan Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Metotlar ile 4 İşlem Yapan Hesap Makinesi\Metotlar ile 4 İşlem Yapan Hesap Makinesi\obj\Debug\Metotlar ile 4 İşlem Yapan Hesap Makinesi.exe
+C:\Users\KoelSYS\source\repos\Metotlar ile 4 İşlem Yapan Hesap Makinesi\Metotlar ile 4 İşlem Yapan Hesap Makinesi\obj\Debug\Metotlar ile 4 İşlem Yapan Hesap Makinesi.pdb

@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\bin\Debug\Metinin İçinde Hangi Harf Kaç Kez Geçiyor.exe.config
+C:\Users\KoelSYS\source\repos\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\bin\Debug\Metinin İçinde Hangi Harf Kaç Kez Geçiyor.exe
+C:\Users\KoelSYS\source\repos\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\bin\Debug\Metinin İçinde Hangi Harf Kaç Kez Geçiyor.pdb
+C:\Users\KoelSYS\source\repos\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\obj\Debug\Metinin İçinde Hangi Harf Kaç Kez Geçiyor.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\obj\Debug\Metinin İçinde Hangi Harf Kaç Kez Geçiyor.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\obj\Debug\Metinin İçinde Hangi Harf Kaç Kez Geçiyor.exe
+C:\Users\KoelSYS\source\repos\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\Metinin İçinde Hangi Harf Kaç Kez Geçiyor\obj\Debug\Metinin İçinde Hangi Harf Kaç Kez Geçiyor.pdb

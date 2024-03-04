@@ -1,0 +1,14 @@
+C:\Users\KoelSYS\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.exe.config
+C:\Users\KoelSYS\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.exe
+C:\Users\KoelSYS\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.pdb
+C:\Users\KoelSYS\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.exe
+C:\Users\KoelSYS\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.pdb
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.exe.config
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.exe
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.pdb
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.exe
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.pdb

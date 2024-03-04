@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Diziyi Son Elemandan Yazdırma\Diziyi Son Elemandan Yazdırma\bin\Debug\Diziyi Son Elemandan Yazdırma.exe.config
+C:\Users\KoelSYS\source\repos\Diziyi Son Elemandan Yazdırma\Diziyi Son Elemandan Yazdırma\bin\Debug\Diziyi Son Elemandan Yazdırma.exe
+C:\Users\KoelSYS\source\repos\Diziyi Son Elemandan Yazdırma\Diziyi Son Elemandan Yazdırma\bin\Debug\Diziyi Son Elemandan Yazdırma.pdb
+C:\Users\KoelSYS\source\repos\Diziyi Son Elemandan Yazdırma\Diziyi Son Elemandan Yazdırma\obj\Debug\Diziyi Son Elemandan Yazdırma.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Diziyi Son Elemandan Yazdırma\Diziyi Son Elemandan Yazdırma\obj\Debug\Diziyi Son Elemandan Yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Diziyi Son Elemandan Yazdırma\Diziyi Son Elemandan Yazdırma\obj\Debug\Diziyi Son Elemandan Yazdırma.exe
+C:\Users\KoelSYS\source\repos\Diziyi Son Elemandan Yazdırma\Diziyi Son Elemandan Yazdırma\obj\Debug\Diziyi Son Elemandan Yazdırma.pdb

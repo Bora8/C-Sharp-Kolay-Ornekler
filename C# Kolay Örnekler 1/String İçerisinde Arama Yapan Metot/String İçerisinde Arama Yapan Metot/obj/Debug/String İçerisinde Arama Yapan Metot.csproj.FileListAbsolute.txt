@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\String İçerisinde Arama Yapan Metot\String İçerisinde Arama Yapan Metot\bin\Debug\String İçerisinde Arama Yapan Metot.exe.config
+C:\Users\KoelSYS\source\repos\String İçerisinde Arama Yapan Metot\String İçerisinde Arama Yapan Metot\bin\Debug\String İçerisinde Arama Yapan Metot.exe
+C:\Users\KoelSYS\source\repos\String İçerisinde Arama Yapan Metot\String İçerisinde Arama Yapan Metot\bin\Debug\String İçerisinde Arama Yapan Metot.pdb
+C:\Users\KoelSYS\source\repos\String İçerisinde Arama Yapan Metot\String İçerisinde Arama Yapan Metot\obj\Debug\String İçerisinde Arama Yapan Metot.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\String İçerisinde Arama Yapan Metot\String İçerisinde Arama Yapan Metot\obj\Debug\String İçerisinde Arama Yapan Metot.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\String İçerisinde Arama Yapan Metot\String İçerisinde Arama Yapan Metot\obj\Debug\String İçerisinde Arama Yapan Metot.exe
+C:\Users\KoelSYS\source\repos\String İçerisinde Arama Yapan Metot\String İçerisinde Arama Yapan Metot\obj\Debug\String İçerisinde Arama Yapan Metot.pdb

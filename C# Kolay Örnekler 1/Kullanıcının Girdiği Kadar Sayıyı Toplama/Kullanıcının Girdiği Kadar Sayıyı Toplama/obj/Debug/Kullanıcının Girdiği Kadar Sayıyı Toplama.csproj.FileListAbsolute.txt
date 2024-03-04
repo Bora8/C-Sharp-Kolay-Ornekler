@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Kullanıcının Girdiği Kadar Sayıyı Toplama\Kullanıcının Girdiği Kadar Sayıyı Toplama\bin\Debug\Kullanıcının Girdiği Kadar Sayıyı Toplama.exe.config
+C:\Users\KoelSYS\source\repos\Kullanıcının Girdiği Kadar Sayıyı Toplama\Kullanıcının Girdiği Kadar Sayıyı Toplama\bin\Debug\Kullanıcının Girdiği Kadar Sayıyı Toplama.exe
+C:\Users\KoelSYS\source\repos\Kullanıcının Girdiği Kadar Sayıyı Toplama\Kullanıcının Girdiği Kadar Sayıyı Toplama\bin\Debug\Kullanıcının Girdiği Kadar Sayıyı Toplama.pdb
+C:\Users\KoelSYS\source\repos\Kullanıcının Girdiği Kadar Sayıyı Toplama\Kullanıcının Girdiği Kadar Sayıyı Toplama\obj\Debug\Kullanıcının Girdiği Kadar Sayıyı Toplama.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Kullanıcının Girdiği Kadar Sayıyı Toplama\Kullanıcının Girdiği Kadar Sayıyı Toplama\obj\Debug\Kullanıcının Girdiği Kadar Sayıyı Toplama.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Kullanıcının Girdiği Kadar Sayıyı Toplama\Kullanıcının Girdiği Kadar Sayıyı Toplama\obj\Debug\Kullanıcının Girdiği Kadar Sayıyı Toplama.exe
+C:\Users\KoelSYS\source\repos\Kullanıcının Girdiği Kadar Sayıyı Toplama\Kullanıcının Girdiği Kadar Sayıyı Toplama\obj\Debug\Kullanıcının Girdiği Kadar Sayıyı Toplama.pdb

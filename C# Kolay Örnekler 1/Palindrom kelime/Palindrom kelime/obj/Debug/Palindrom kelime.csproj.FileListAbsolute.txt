@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Palindrom kelime\Palindrom kelime\bin\Debug\Palindrom kelime.exe.config
+C:\Users\KoelSYS\source\repos\Palindrom kelime\Palindrom kelime\bin\Debug\Palindrom kelime.exe
+C:\Users\KoelSYS\source\repos\Palindrom kelime\Palindrom kelime\bin\Debug\Palindrom kelime.pdb
+C:\Users\KoelSYS\source\repos\Palindrom kelime\Palindrom kelime\obj\Debug\Palindrom kelime.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Palindrom kelime\Palindrom kelime\obj\Debug\Palindrom kelime.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Palindrom kelime\Palindrom kelime\obj\Debug\Palindrom kelime.exe
+C:\Users\KoelSYS\source\repos\Palindrom kelime\Palindrom kelime\obj\Debug\Palindrom kelime.pdb

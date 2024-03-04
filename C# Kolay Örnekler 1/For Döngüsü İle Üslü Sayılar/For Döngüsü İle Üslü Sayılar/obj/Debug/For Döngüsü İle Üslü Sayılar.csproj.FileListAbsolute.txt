@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\For Döngüsü İle Üslü Sayılar\For Döngüsü İle Üslü Sayılar\bin\Debug\For Döngüsü İle Üslü Sayılar.exe.config
+C:\Users\KoelSYS\source\repos\For Döngüsü İle Üslü Sayılar\For Döngüsü İle Üslü Sayılar\bin\Debug\For Döngüsü İle Üslü Sayılar.exe
+C:\Users\KoelSYS\source\repos\For Döngüsü İle Üslü Sayılar\For Döngüsü İle Üslü Sayılar\bin\Debug\For Döngüsü İle Üslü Sayılar.pdb
+C:\Users\KoelSYS\source\repos\For Döngüsü İle Üslü Sayılar\For Döngüsü İle Üslü Sayılar\obj\Debug\For Döngüsü İle Üslü Sayılar.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\For Döngüsü İle Üslü Sayılar\For Döngüsü İle Üslü Sayılar\obj\Debug\For Döngüsü İle Üslü Sayılar.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\For Döngüsü İle Üslü Sayılar\For Döngüsü İle Üslü Sayılar\obj\Debug\For Döngüsü İle Üslü Sayılar.exe
+C:\Users\KoelSYS\source\repos\For Döngüsü İle Üslü Sayılar\For Döngüsü İle Üslü Sayılar\obj\Debug\For Döngüsü İle Üslü Sayılar.pdb

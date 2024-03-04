@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\Ehliyet Uygulaması\Ehliyet Uygulaması\bin\Debug\Ehliyet Uygulaması.exe.config
+C:\Users\KoelSYS\source\repos\Ehliyet Uygulaması\Ehliyet Uygulaması\bin\Debug\Ehliyet Uygulaması.exe
+C:\Users\KoelSYS\source\repos\Ehliyet Uygulaması\Ehliyet Uygulaması\bin\Debug\Ehliyet Uygulaması.pdb
+C:\Users\KoelSYS\source\repos\Ehliyet Uygulaması\Ehliyet Uygulaması\obj\Debug\Ehliyet Uygulaması.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\Ehliyet Uygulaması\Ehliyet Uygulaması\obj\Debug\Ehliyet Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\Ehliyet Uygulaması\Ehliyet Uygulaması\obj\Debug\Ehliyet Uygulaması.exe
+C:\Users\KoelSYS\source\repos\Ehliyet Uygulaması\Ehliyet Uygulaması\obj\Debug\Ehliyet Uygulaması.pdb
